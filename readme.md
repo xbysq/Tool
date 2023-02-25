@@ -7,4 +7,8 @@
 
 4. 可视化混淆矩阵 visualize.py
 
-5.
+5. 划分训练\验证\测试集 group_img.py
+
+6. 批量复制图片到指定文件夹 copy_pic.py
+
+7.  语义变化检测中的标签上色 color_label.py
