@@ -13,4 +13,4 @@
 
 7.  语义变化检测中的标签上色 color_label.py
 
-8. PIL 数据增强可视化 高斯模糊
+8. PIL 数据增强可视化 高斯模糊 img_Blur.py
