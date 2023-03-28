@@ -15,4 +15,4 @@
 
 8. PIL 数据增强可视化 高斯模糊 img_Blur.py
 
-9. 对变化检测中的误检漏检可视化 visualize_results.py
+9. 对二值变化检测中的误检漏检可视化 visualize_results.py
