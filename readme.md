@@ -5,7 +5,7 @@
 
 3. 学习率调整可视化 lr_loss.py
 
-4. 可视化混淆矩阵 visualize.py
+4. 可视化混淆矩阵(语义变化检测) visualize.py
 
 5. 划分训练\验证\测试集 group_img.py
 
