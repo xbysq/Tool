@@ -6,13 +6,14 @@ from tqdm import tqdm
 
 def color_map():
     cmap = np.zeros((10, 3), dtype=np.uint8)
-    # 土地覆盖图生成
+    # HRSCD数据集
     # cmap[0] = np.array([0, 0, 0])  #黑色
     # cmap[1] = np.array([128,128,128])# 灰色
     # cmap[2] = np.array([102,80,68]) # 褐色
     # cmap[3] = np.array([0,128,0])# 绿色
     # cmap[4] = np.array([144,238,144])# 浅绿
     # cmap[5] = np.array([0,0,255])  # 蓝色
+    # Landsat数据集    
     cmap[0] = np.array([255, 255, 255])  #黑色
     cmap[1] = np.array([130,87,87])# 灰色
     cmap[2] = np.array([255,0,0]) # 褐色
@@ -23,7 +24,7 @@ def color_map():
     cmap[7] = np.array([130,87,87])  #
     cmap[8] = np.array([128,128,128])  #
     cmap[9] = np.array([130,87,87])  #
-    # 二值变化图生成
+    # SECOND数据集
     # cmap[0] = np.array([255, 255, 255])
     # cmap[1] = np.array([0, 0, 255])
     # cmap[2] = np.array([128, 128, 128])
