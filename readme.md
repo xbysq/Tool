@@ -16,3 +16,5 @@
 8. PIL 数据增强可视化 高斯模糊 img_Blur.py
 
 9. 对二值变化检测中的误检漏检可视化 visualize_results.py
+
+10. 统计标签各个类别像素数，并画直方图 hist_pixel.py
