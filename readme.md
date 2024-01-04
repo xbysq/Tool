@@ -22,3 +22,7 @@
 11. 删去图片中存在0的图片 r_label.py
 
 12. 导入A文件夹图片，将其转换为数组，查看其中是否有像素0，如果没有零，就将其复制到B文件夹 copy.py
+
+13. tif文件转png  tiftopng.py
+
+14. CD分支乘到SS分支 cdtoss.py
